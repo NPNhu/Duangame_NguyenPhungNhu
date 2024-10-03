@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Stupid Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A3490-4C2A-469A-923B-28C49EEF6CA9}|Stupid Car\\Stupid Car.csproj|d:\\code\\stupid car\\stupid car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A3490-4C2A-469A-923B-28C49EEF6CA9}|Stupid Car\\Stupid Car.csproj|solutionrelative:stupid car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A3490-4C2A-469A-923B-28C49EEF6CA9}|Stupid Car\\Stupid Car.csproj|D:\\Code\\Stupid Car\\stupid car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C1A3490-4C2A-469A-923B-28C49EEF6CA9}|Stupid Car\\Stupid Car.csproj|solutionrelative:stupid car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Code\\Stupid Car\\Stupid Car\\Form1.cs",
+              "RelativeDocumentMoniker": "Stupid Car\\Form1.cs",
+              "ToolTip": "D:\\Code\\Stupid Car\\Stupid Car\\Form1.cs",
+              "RelativeToolTip": "Stupid Car\\Form1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:57:03.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Stupid Car\\Stupid Car\\Form1.cs",
+              "RelativeDocumentMoniker": "Stupid Car\\Form1.cs",
+              "ToolTip": "D:\\Code\\Stupid Car\\Stupid Car\\Form1.cs [Design]",
+              "RelativeToolTip": "Stupid Car\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:36:49.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\Code\Stupid Car\Stupid Car\bin\Debug\Stupid Car.exe.config
+D:\Code\Stupid Car\Stupid Car\bin\Debug\Stupid Car.exe
+D:\Code\Stupid Car\Stupid Car\bin\Debug\Stupid Car.pdb
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid Car.csproj.AssemblyReference.cache
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid_Car.Form1.resources
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid_Car.Properties.Resources.resources
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid Car.csproj.GenerateResource.cache
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid Car.csproj.CoreCompileInputs.cache
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid Car.exe
+D:\Code\Stupid Car\Stupid Car\obj\Debug\Stupid Car.pdb
